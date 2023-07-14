@@ -16,3 +16,6 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+
+# Блок-схема
+![finaltask drawio](https://github.com/ginegatt/final_task/assets/125220863/75c21b35-a6a3-41ca-9c9b-1774310c6124)
