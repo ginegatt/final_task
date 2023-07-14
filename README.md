@@ -25,3 +25,8 @@
 
 ![blSJFvp534U](https://github.com/ginegatt/final_task/assets/125220863/44fa1842-846f-466d-a9db-6a55e98f1be8)
 
+# Лог коммитов
+
+![image](https://github.com/ginegatt/final_task/assets/125220863/2dc14edb-2c25-4736-9432-3a5883cc974a)
+
+
