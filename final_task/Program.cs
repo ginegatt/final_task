@@ -1,4 +1,4 @@
-﻿﻿// Задача:
+﻿// Задача:
 // Написать программу, которая из имеющегося массива строк формирует новый массив из строк,
 // длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры,
 // либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями,
@@ -15,7 +15,9 @@ string[] array = new string[] {};
 
 string fromUser = ReadInput("Введите команду: ");
 switch (fromUser)
+
 {
+    
     case "1":
         array = new string[] { "Hello", "2", "world", ":-)" };
         break;
@@ -29,7 +31,6 @@ switch (fromUser)
         Console.WriteLine($"{fromUser} - Такой команды нет");
         break;
 }
-
 
 int lenNewArray = 0;
 for (int i = 0; i <= array.Length - 1; i++)
@@ -47,11 +48,8 @@ for (int i = 0; i <= array.Length - 1; i++)
         newArray[idx] = array[i];
         idx++;
     }
+    
 }
-
-PrintArray(array);
-Console.Write("→ ");
-PrintArray(newArray);
 
 void Commands()
 {
@@ -77,3 +75,12 @@ string ReadInput(string msg)
     }
     Console.Write("] ");
 }
+PrintArray(array);
+
+void PrintArray(string[] array)
+{
+    throw new NotImplementedException();
+}
+
+Console.Write("→ ");
+PrintArray(newArray);
