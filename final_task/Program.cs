@@ -69,3 +69,11 @@ string ReadInput(string msg)
     return Console.ReadLine();
 }
 
+{
+    Console.Write("[ ");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"“{array[i]}”, ");
+    }
+    Console.Write("] ");
+}
