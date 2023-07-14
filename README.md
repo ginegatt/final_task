@@ -21,8 +21,7 @@
 
 ![finaltask drawio](https://github.com/ginegatt/final_task/assets/125220863/75c21b35-a6a3-41ca-9c9b-1774310c6124)
 
-
-#Результаты вывода в терминал
+# Результаты вывода в терминал
 
 ![blSJFvp534U](https://github.com/ginegatt/final_task/assets/125220863/44fa1842-846f-466d-a9db-6a55e98f1be8)
 
